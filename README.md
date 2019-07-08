@@ -1,6 +1,6 @@
-# bloc_pattern_exemplo
+# Bloc Pattern Exemplo
 
-A new Flutter application.
+Pode ser utilizado para validação de login
 
 ## Getting Started
 
